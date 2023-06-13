@@ -25,4 +25,4 @@ export const adminServiceUrls={
 
 }
 
-export const baseUrl="http://localhost:3009"
+export const baseUrl="https://booknow-5qap.onrender.com"
